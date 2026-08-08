@@ -13,8 +13,9 @@ The project covers the complete data science workflow, from data collection and 
 - Create interactive geographic maps with Folium
 - Train and compare multiple classification models to predict landing success
 
-## Repository Structure
+## Estructura del Proyecto
 
+\```
 IBM-SpaceX-Capstone/
 ├── notebooks/
 │   ├── 01_API_Data_Collection.ipynb
@@ -31,6 +32,7 @@ IBM-SpaceX-Capstone/
 ├── screenshots/
 ├── README.md
 └── requirements.txt
+\```
 
 ## Technologies Used
 - Python
@@ -84,4 +86,5 @@ This project was completed as part of the IBM Data Science Professional Certific
 ## Author
 
 Jhonathan Camilo Baracaldo
+
 Data Analytics | Business Intelligence | Data Scienct | Financial Analytics (soon)
