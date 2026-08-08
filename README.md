@@ -15,7 +15,9 @@ Explore launch patterns using SQL, Python, and data visualization
 Build interactive dashboards with Plotly Dash
 Create interactive geographic maps with Folium
 Train and compare multiple classification models to predict landing success
+
 Repository Structure
+
 IBM-SpaceX-Capstone/
 ├── notebooks/
 │   ├── 01_API_Data_Collection.ipynb
@@ -32,7 +34,9 @@ IBM-SpaceX-Capstone/
 ├── screenshots/
 ├── README.md
 └── requirements.txt
+
 Technologies Used
+
 Python
 Pandas
 NumPy
