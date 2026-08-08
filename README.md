@@ -5,6 +5,7 @@ This repository contains my completed work for the IBM Data Science Capstone Pro
 The project covers the complete data science workflow, from data collection and preprocessing to exploratory data analysis, interactive visualization, dashboard development, and machine learning.
 
 ## Project Objectives
+
 - Collect SpaceX launch data from the SpaceX REST API
 - Extract additional launch information through web scraping (Wikipedia)
 - Perform data wrangling and feature engineering
@@ -13,9 +14,9 @@ The project covers the complete data science workflow, from data collection and 
 - Create interactive geographic maps with Folium
 - Train and compare multiple classification models to predict landing success
 
-## Estructura del Proyecto
+## Project Structure
 
-\```
+```
 IBM-SpaceX-Capstone/
 ├── notebooks/
 │   ├── 01_API_Data_Collection.ipynb
@@ -32,13 +33,14 @@ IBM-SpaceX-Capstone/
 ├── screenshots/
 ├── README.md
 └── requirements.txt
-\```
+```
 
 ## Technologies Used
+
 - Python
 - Pandas
 - NumPy
--Matplotlib
+- Matplotlib
 - Seaborn
 - SQL (SQLite)
 - BeautifulSoup
@@ -47,6 +49,7 @@ IBM-SpaceX-Capstone/
 - Scikit-learn
 
 ## Machine Learning Models
+
 The following classification algorithms were trained and evaluated using GridSearchCV and cross-validation:
 
 - Logistic Regression
@@ -57,6 +60,7 @@ The following classification algorithms were trained and evaluated using GridSea
 Among the evaluated models, the Decision Tree classifier achieved the highest cross-validation accuracy in this project.
 
 ## Key Insights
+
 - Launch success rates improved significantly over time.
 - Launch site and orbit type were associated with landing outcomes.
 - Payload mass showed a relationship with mission success in specific ranges.
@@ -85,6 +89,5 @@ This project was completed as part of the IBM Data Science Professional Certific
 
 ## Author
 
-Jhonathan Camilo Baracaldo
-
-Data Analytics | Business Intelligence | Data Scienct | Financial Analytics (soon)
+**Jhonathan Camilo Baracaldo**
+Data Analytics | Business Intelligence | Data Science | Financial Analytics (soon)
