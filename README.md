@@ -25,8 +25,7 @@ IBM-SpaceX-Capstone/
 │   ├── 04_EDA_SQL.ipynb
 │   ├── 05_EDA_Visualization.ipynb
 │   ├── 06_Folium_Map.ipynb
-│   ├── 07_Dash_Dashboard.ipynb
-│   └── 08_Machine_Learning.ipynb
+│   └── 07_Machine_Learning.ipynb
 ├── dash_app/
 │   └── spacex-dash-app.py
 ├── data/
